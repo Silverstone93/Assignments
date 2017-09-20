@@ -3,5 +3,6 @@ School Assignments TiU
 
 This repository includes my:
 
-- [CV](Assignments/CV.md)
+- [CV](https://github.com/Silverstone93/Assignments/blob/master/CV.md)
+
 
