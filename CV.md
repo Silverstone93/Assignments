@@ -5,9 +5,12 @@
 
 ## **Education**
 
-Almere College, Kampen (NL)
-University College Roosevelt, Middelburg (NL)
-Antwerpen Universiteit, Antwerp (BE)
+* Almere College, Kampen (NL)
+* University College Roosevelt, Middelburg (NL)
+* Antwerpen Universiteit, Antwerp (BE)
 
 ## **Currently Enrolled at:**
-Tilburg University, Tilburg (NL)
+* Tilburg University, Tilburg (NL)
+
+## **Social**
+* [linkedin](https://www.linkedin.com/in/kallesolvsteen/)
