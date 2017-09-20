@@ -14,3 +14,9 @@
 
 ## **Social**
 * [linkedin](https://www.linkedin.com/in/kallesolvsteen/)
+
+## **Quote**
+
+> We're living the future so
+> the present is our past.
+*- Kanye West*
