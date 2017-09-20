@@ -3,7 +3,5 @@ School Assignments TiU
 
 This repository includes my:
 
-[CV]
+- [CV](Assignments/CV.md)
 
-[Assignment 1]
-[Assignment 2]
